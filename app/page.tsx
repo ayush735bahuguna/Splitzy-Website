@@ -101,7 +101,7 @@ const Page = () => {
           </h3>
           <p className="text-gray-700">
             Splitzi was designed to simplify expense management for individuals
-            and groups. Whether you're sharing rent, planning a trip, or
+            and groups. Whether you&apos;re sharing rent, planning a trip, or
             tracking one-on-one payments, Splitzi helps you manage it all with
             ease. With features like group integration, smart splits, and friend
             lists, staying organized has never been easier.
